@@ -1,0 +1,341 @@
+RISK ASSESSMENT FRAMEWORK
+Enterprise Risk Management for Insurance Operations
+Updated: January 2024
+
+PART 1: RISK ASSESSMENT FUNDAMENTALS
+
+1.1 DEFINITION AND PURPOSE
+Risk assessment is the systematic process of identifying, analyzing, and evaluating risks to determine appropriate mitigation strategies and pricing.
+
+Key objectives:
+- Accurate pricing of insurance products
+- Identification of high-risk exposures
+- Portfolio diversification
+- Capital allocation optimization
+- Regulatory compliance
+
+1.2 RISK CATEGORIES
+Underwriting Risk: Risk of inadequate premium for exposure
+Market Risk: Investment portfolio volatility
+Credit Risk: Reinsurer or counterparty default
+Operational Risk: Internal process failures
+Catastrophe Risk: Large-scale natural disasters
+Regulatory Risk: Compliance and legal changes
+Reputational Risk: Brand damage from incidents
+
+PART 2: AUTO INSURANCE RISK ASSESSMENT
+
+2.1 DRIVER RISK FACTORS
+Age and experience:
+- Teen drivers (16-19): 300% higher accident rate
+- Young adults (20-24): 150% higher accident rate
+- Senior drivers (70+): 75% higher accident rate
+- Optimal age range: 30-60 years
+
+Driving record:
+- At-fault accident: 40% premium increase
+- Speeding ticket: 15-25% increase
+- DUI: 80-120% increase or decline coverage
+- License suspension: Immediate declination
+
+Annual mileage:
+- Under 5,000 miles: Low risk
+- 5,000-12,000 miles: Average risk
+- 12,000-20,000 miles: Elevated risk
+- Over 20,000 miles: High risk (commercial consideration)
+
+2.2 VEHICLE RISK FACTORS
+Safety ratings:
+- Top safety pick (IIHS): 10% discount
+- 5-star crash rating: 5% discount
+- Advanced safety features: Additional 5-10% discount
+
+Theft risk:
+- High-theft models: 15-30% surcharge
+- Anti-theft devices: 5% discount
+- GPS tracking: Additional 5% discount
+
+Performance classification:
+- Sports cars: 25-50% surcharge
+- High-horsepower vehicles: 20% surcharge
+- Standard sedans: Base rate
+- Minivans/family SUVs: 5-10% discount
+
+2.3 GEOGRAPHIC RISK
+Urban vs. rural:
+- Dense urban areas: 40% higher rates (more accidents, theft)
+- Suburban areas: Base rates
+- Rural areas: 15% lower rates (lower frequency)
+
+Weather risk:
+- Hail-prone regions: 10% surcharge
+- Flood zones: Comprehensive rate increase
+- Ice/snow regions: 5-10% surcharge
+
+Crime statistics:
+- High auto theft rate: 15-25% surcharge
+- Vandalism rates: 5-15% impact
+- Low crime areas: 5-10% discount
+
+PART 3: HOMEOWNERS RISK ASSESSMENT
+
+3.1 PROPERTY CHARACTERISTICS
+Construction type:
+- Frame construction: Base rate
+- Masonry: 10% discount
+- Fire-resistive: 15% discount
+- Log/unusual construction: 25% surcharge
+
+Age of home:
+- New construction (0-5 years): 15% discount
+- 6-20 years: Base rate
+- 21-40 years: 10% surcharge
+- 41+ years: 20% surcharge (may require inspection)
+
+Square footage and value:
+- Under $200,000: Standard rates
+- $200,000-$500,000: Base rates with full coverage
+- $500,000-$1,000,000: Premium tier with enhanced coverage
+- Over $1,000,000: High-value tier with specialized coverage
+
+3.2 LOCATION HAZARDS
+Wildfire risk:
+- High hazard zones: 50-100% surcharge or decline
+- Moderate hazard: 25% surcharge
+- Low hazard: Base rate
+- Defensible space mitigation: Up to 20% credit
+
+Flood risk:
+- FEMA Zone A/V: Require separate flood policy
+- FEMA Zone X (moderate): Encourage flood coverage
+- Minimal risk areas: Base rate
+
+Hurricane/wind exposure:
+- Coastal properties: 30-60% surcharge
+- Wind mitigation features: 15-25% credit
+- Hurricane shutters/impact glass: Additional 10% credit
+
+Earthquake risk:
+- High seismic zones: Require separate earthquake policy
+- Moderate zones: Offer earthquake endorsement
+- Low risk areas: Base rate
+
+3.3 LOSS HISTORY
+Property-specific:
+- No claims in 5 years: 15% discount
+- 1 claim in 3 years: Base rate
+- 2 claims in 3 years: 25% surcharge
+- 3+ claims in 3 years: Decline coverage
+
+Neighborhood loss ratio:
+- Review ZIP code loss experience
+- High-loss ZIPs: 10-20% surcharge
+- Low-loss ZIPs: 5-10% discount
+
+PART 4: CATASTROPHE MODELING
+
+4.1 NATURAL DISASTER EXPOSURE
+Hurricane modeling:
+- Analyze historical hurricane tracks
+- Model potential damage based on wind speed
+- Assess storm surge impact
+- Calculate probable maximum loss (PML)
+
+Earthquake modeling:
+- Fault line proximity
+- Soil liquefaction potential
+- Building construction standards
+- Retrofit status
+
+Wildfire modeling:
+- Vegetation density
+- Slope and terrain
+- Distance to fire station
+- Fire history in area
+
+4.2 PORTFOLIO CONCENTRATION
+Maximum exposure limits by region:
+- Single ZIP code: No more than 5% of total exposure
+- Single county: No more than 15% of total exposure
+- High-risk states: No more than 30% of portfolio
+- Catastrophe-prone areas: Monitor PML closely
+
+4.3 REINSURANCE STRATEGY
+Catastrophe reinsurance:
+- Cover losses exceeding $10M per event
+- Annual aggregate limit: $500M
+- Retention: $10M
+- Multiple layers for mega-catastrophes
+
+PART 5: CREDIT AND FINANCIAL RISK
+
+5.1 CREDIT-BASED INSURANCE SCORES
+Strong correlation between credit score and loss frequency:
+- Excellent credit (750+): 40% lower loss ratio
+- Good credit (650-749): Average loss ratio
+- Fair credit (550-649): 15% higher loss ratio
+- Poor credit (<550): 50% higher loss ratio
+
+5.2 FINANCIAL STABILITY INDICATORS
+Red flags:
+- Recent bankruptcy
+- Tax liens
+- Multiple late payments
+- High debt-to-income ratio
+- Foreclosure proceedings
+
+Positive indicators:
+- Stable employment (5+ years)
+- Home ownership
+- Long-term insurance history
+- Strong payment history
+
+PART 6: PREDICTIVE ANALYTICS
+
+6.1 MACHINE LEARNING MODELS
+Implement predictive models for:
+- Claim frequency prediction
+- Claim severity estimation
+- Fraud probability scoring
+- Churn/retention likelihood
+- Cross-sell opportunities
+
+Model inputs:
+- Historical claim data
+- Demographic information
+- Telematics data (if available)
+- Geographic data
+- Credit information
+- Market trends
+
+6.2 TELEMATICS AND USAGE-BASED INSURANCE
+Data collected:
+- Miles driven
+- Time of day driving
+- Hard braking frequency
+- Rapid acceleration
+- Cornering behavior
+- Speed relative to posted limits
+
+Risk scoring:
+- Excellent driver: 25% discount
+- Good driver: 10-15% discount
+- Average driver: Base rate
+- Risky driver: 10-20% surcharge
+
+PART 7: PORTFOLIO MANAGEMENT
+
+7.1 LOSS RATIO TARGETS
+Target combined ratio: 95-100%
+- Loss ratio target: 65-70%
+- Expense ratio target: 25-30%
+- Underwriting profit: 0-5%
+
+Acceptable ranges by line:
+- Personal auto: 68-72% loss ratio
+- Homeowners: 55-65% loss ratio
+- Umbrella: 50-60% loss ratio
+
+7.2 RATE ADEQUACY MONITORING
+Quarterly review of:
+- Actual vs. expected loss ratio
+- Severity trends
+- Frequency trends
+- Expense ratios
+- Competitive positioning
+
+Rate adjustment triggers:
+- Loss ratio exceeds target by 5%+ for 2 consecutive quarters
+- Catastrophe losses exceed budget
+- Competitive pressure threatens market share
+- Regulatory changes impact costs
+
+PART 8: EMERGING RISKS
+
+8.1 CLIMATE CHANGE IMPACTS
+Increasing frequency and severity of:
+- Hurricanes and tropical storms
+- Wildfires
+- Flooding
+- Hailstorms
+- Extreme temperatures
+
+Mitigation strategies:
+- Update catastrophe models annually
+- Adjust coastal exposure limits
+- Incentivize resilient construction
+- Encourage adaptation measures
+
+8.2 TECHNOLOGY RISKS
+Autonomous vehicles:
+- Shift from driver liability to manufacturer liability
+- Reduced frequency but higher severity
+- Need for cyber coverage
+
+Smart homes:
+- IoT device vulnerabilities
+- Data privacy concerns
+- Potential for remote monitoring benefits
+
+Cryptocurrency:
+- Valuation challenges
+- Theft and fraud concerns
+- Special coverage considerations
+
+8.3 SOCIAL INFLATION
+Trends impacting claim costs:
+- Larger jury awards
+- Litigation funding growth
+- Nuclear verdicts (>$10M)
+- Attorney advertising
+- Changing social attitudes
+
+Response strategies:
+- Increase liability limits
+- Enhance legal defense
+- Improve claims handling
+- Consider excess coverage
+
+PART 9: RISK MITIGATION
+
+9.1 LOSS CONTROL SERVICES
+Offer policyholders:
+- Home safety inspections
+- Risk assessment consultations
+- Defensive driving courses
+- Fire prevention education
+- Security system recommendations
+
+9.2 POLICY TERMS AND CONDITIONS
+Risk transfer through:
+- Appropriate deductibles
+- Coverage limits aligned with exposure
+- Exclusions for uninsurable risks
+- Sub-limits for high-risk items
+- Conditional coverage for certain perils
+
+PART 10: MONITORING AND REPORTING
+
+10.1 KEY RISK INDICATORS (KRIs)
+Track monthly:
+- Loss ratio by line of business
+- Claim frequency and severity
+- New business vs. renewal ratio
+- Policy cancellation rates
+- Expense ratios
+- Reinsurance costs
+- Reserve adequacy
+
+10.2 RISK REPORTING
+Monthly to management:
+- Risk dashboard with KRIs
+- Emerging risk alerts
+- Catastrophe exposure report
+- Large loss summaries
+- Rate adequacy analysis
+
+Quarterly to board:
+- Enterprise risk profile
+- Capital adequacy assessment
+- Strategic risk review
+- Regulatory compliance status

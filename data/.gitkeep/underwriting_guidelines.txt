@@ -1,0 +1,235 @@
+UNDERWRITING GUIDELINES
+Personal Lines Insurance
+Revised: January 2024
+
+SECTION 1: AUTO INSURANCE UNDERWRITING
+
+1.1 DRIVER ELIGIBILITY
+Acceptable risks:
+- Licensed drivers age 18 and above
+- Valid driver's license for minimum 1 year
+- Clean driving record (no major violations in 3 years)
+
+Unacceptable risks:
+- DUI/DWI conviction within 5 years
+- License suspension within 3 years
+- More than 3 at-fault accidents in 3 years
+- Reckless driving conviction within 3 years
+
+1.2 VEHICLE ELIGIBILITY
+Acceptable:
+- Private passenger vehicles
+- Light trucks and SUVs under 10,000 lbs
+- Vehicles less than 15 years old
+- Antique/classic cars (with special endorsement)
+
+Unacceptable:
+- Vehicles modified for racing
+- Commercial vehicles without proper coverage
+- Salvage title vehicles
+- Exotic or ultra-luxury vehicles over $200,000
+
+1.3 RATING FACTORS
+Primary factors (weighted):
+- Age of driver: 20%
+- Driving history: 30%
+- Vehicle type and value: 25%
+- Annual mileage: 10%
+- Geographic location: 10%
+- Credit score: 5%
+
+1.4 PREMIUM ADJUSTMENT RULES
+Increase premium if:
+- Any driver under age 25
+- Sports car or high-performance vehicle
+- Urban/high-theft area
+- High annual mileage (>15,000 miles)
+- Poor credit score
+
+Decrease premium if:
+- All drivers over age 25 with clean records
+- Safety-rated vehicle with modern features
+- Low mileage (<7,500 miles annually)
+- Good credit score
+- Multiple policies bundled
+
+SECTION 2: HOMEOWNERS INSURANCE UNDERWRITING
+
+2.1 PROPERTY ELIGIBILITY
+Acceptable:
+- Single-family homes, townhouses, condos
+- Primary residences or secondary homes
+- Properties in good condition
+- Standard construction (wood frame, brick, concrete)
+
+Unacceptable:
+- Properties in FEMA flood zones without flood insurance
+- Homes with unrepaired damage
+- Properties with more than 2 claims in 3 years
+- Vacant properties (vacant >60 days)
+- Earth homes, dome homes, log homes (without special review)
+
+2.2 PROPERTY INSPECTION REQUIREMENTS
+Inspection required if:
+- Home value exceeds $500,000
+- Roof is older than 15 years
+- Property has swimming pool
+- Home is older than 40 years
+- Switching from another insurer
+- Prior claim history unknown
+
+2.3 ROOF AGE GUIDELINES
+- Roofs 0-10 years: Full replacement cost
+- Roofs 11-15 years: Replacement cost with inspection
+- Roofs 16-20 years: Actual cash value only
+- Roofs over 20 years: Coverage declined (must replace roof first)
+
+Exceptions for:
+- Metal roofs: Add 10 years to thresholds
+- Tile roofs: Add 10 years to thresholds
+- Recently inspected/certified roofs
+
+2.4 RISK ASSESSMENT
+Increase premium for:
+- Coastal properties (hurricane exposure)
+- Homes with swimming pools
+- Homes with trampolines
+- Homes with wood-burning stoves
+- High-value homes (>$750,000)
+- Homes with flat roofs
+
+Decrease premium for:
+- Gated community
+- Central station alarm system
+- Impact-resistant roofing
+- Hurricane shutters
+- Sprinkler system
+- New construction (<5 years)
+
+SECTION 3: CREDIT-BASED INSURANCE SCORING
+
+3.1 SCORE TIERS
+Tier 1 (Excellent): 750+ credit score
+- 20% discount from base rate
+- Best coverage options available
+
+Tier 2 (Good): 650-749 credit score
+- Standard rates
+- All coverage options available
+
+Tier 3 (Fair): 550-649 credit score
+- 15% surcharge
+- Higher deductibles required
+
+Tier 4 (Poor): Below 550 credit score
+- 35% surcharge
+- Limited coverage options
+- May require manual underwriting approval
+
+3.2 EXCEPTIONS TO CREDIT SCORING
+Do not use credit score if:
+- Extraordinary life circumstance (bankruptcy due to medical bills, divorce, identity theft)
+- Insufficient credit history
+- State law prohibits credit-based insurance scoring
+- Applicant provides documentation of circumstance
+
+SECTION 4: CLAIMS HISTORY EVALUATION
+
+4.1 ACCEPTABLE CLAIMS HISTORY
+- 0-1 claims in past 3 years: Standard rates
+- 1 not-at-fault auto accident: No penalty
+- 1 homeowners claim under $5,000: Minimal impact
+
+4.2 UNACCEPTABLE CLAIMS HISTORY
+- 3 or more claims in 3 years: Decline coverage
+- 2 or more at-fault auto accidents: Decline coverage
+- Large loss history (>$50,000 total): Decline coverage
+- Any intentional damage claim: Permanent decline
+
+4.3 CLAIM-FREE CREDITS
+- 3 years claim-free: 5% discount
+- 5 years claim-free: 10% discount
+- 10 years claim-free: 15% discount
+
+SECTION 5: SPECIAL CONSIDERATIONS
+
+5.1 HIGH-VALUE ACCOUNTS
+Homes valued over $1,000,000 require:
+- Full appraisal within 12 months
+- Detailed inventory of contents
+- Security system with monitoring
+- Regular maintenance records
+- Separate coverage for fine arts, jewelry
+
+5.2 BUSINESS USE
+Home business coverage required if:
+- More than $5,000 in business equipment
+- Clients visit home regularly
+- Products manufactured or stored
+- More than one employee
+
+5.3 ANIMAL LIABILITY
+Unacceptable dog breeds:
+- Pit bulls
+- Rottweilers
+- Doberman pinschers
+- Wolf hybrids
+- Presa canarios
+
+Exception: May accept with additional liability coverage and documented training/certification.
+
+Exotic animals (not covered):
+- Venomous reptiles
+- Large cats
+- Bears
+- Primates
+- Any animal requiring special permit
+
+SECTION 6: BINDING AUTHORITY
+
+6.1 UNDERWRITER AUTHORITY LEVELS
+Junior Underwriter:
+- Policies up to $300,000 total insured value
+- Standard risks only
+- No exceptions to guidelines
+
+Senior Underwriter:
+- Policies up to $1,000,000 total insured value
+- Can approve minor exceptions
+- Refer major exceptions to management
+
+Underwriting Manager:
+- Unlimited authority
+- Can approve major exceptions with documentation
+- Final decision on declined risks
+
+SECTION 7: DOCUMENTATION REQUIREMENTS
+
+All new policies must include:
+- Completed application with signatures
+- Motor vehicle reports for all drivers
+- Credit report
+- CLUE report (Comprehensive Loss Underwriting Exchange)
+- Photos of property (for homeowners)
+- Prior insurance declarations page
+
+Renewal policies require:
+- Updated motor vehicle reports
+- Confirmation of no material changes
+- Current photos (every 3 years for homeowners)
+
+SECTION 8: DECLINATION PROCEDURES
+
+When declining coverage:
+- Provide written notice within 10 days
+- State specific reasons for declination
+- Cite applicable guidelines or regulations
+- Inform of appeal process
+- Suggest alternative carriers if possible
+
+Adverse action notice required if declined based on:
+- Credit report
+- CLUE report
+- Motor vehicle report
+
+Include information on how to obtain free copy of report and dispute inaccuracies.

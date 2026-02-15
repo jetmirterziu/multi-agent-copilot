@@ -1,0 +1,402 @@
+REGULATORY COMPLIANCE GUIDE
+Insurance Operations and Requirements
+Version 4.0 - December 2023
+
+CHAPTER 1: STATE INSURANCE REGULATIONS
+
+1.1 LICENSING AND AUTHORITY
+Certificate of Authority:
+- Must be licensed in each state of operation
+- Annual renewal required
+- Financial statements filed quarterly
+- Maintain minimum capital and surplus requirements
+
+Agent licensing:
+- Individual licenses required in each state
+- Continuing education: 20-24 hours every 2 years
+- Background checks required
+- Errors and omissions insurance mandatory
+
+1.2 RATE AND FORM FILING
+Prior approval states (35 states):
+- Submit rates and forms to insurance department
+- Cannot use until approved (30-90 days)
+- Actuarial justification required
+- Rate changes limited to once per year in some states
+
+File and use states (10 states):
+- File with insurance department
+- Can implement immediately
+- Subject to post-implementation review
+- Must provide supporting documentation
+
+Use and file states (5 states):
+- Implement rates
+- File within specified time period
+- Less regulatory oversight
+- Still subject to examination
+
+1.3 PROHIBITED PRACTICES
+Cannot discriminate based on:
+- Race or ethnicity
+- Religion
+- National origin
+- Gender (in some states)
+- Sexual orientation (in some states)
+- Marital status (in some states)
+
+Allowed risk factors:
+- Credit score (except CA, HI, MA, MD)
+- Driving record
+- Claims history
+- Geographic location
+- Property characteristics
+
+CHAPTER 2: UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+
+2.1 PROHIBITED CONDUCT
+Insurers must not:
+- Misrepresent policy provisions
+- Fail to acknowledge claims promptly
+- Fail to investigate claims properly
+- Fail to affirm or deny coverage promptly
+- Delay payments unreasonably
+- Offer substantially less than amounts due
+- Require unnecessary documentation
+- Make claim settlement conditional on giving up other rights
+
+2.2 PROMPT PAYMENT REQUIREMENTS
+Timeframes vary by state, typical requirements:
+- Acknowledge claim: Within 15 days
+- Begin investigation: Within 30 days
+- Make coverage decision: Within 45 days
+- Issue payment: Within 30 days of settlement
+
+Penalties for violations:
+- Interest on delayed payments (6-18% annually)
+- Attorney fees for policyholder
+- Bad faith damages (2-3x actual damages)
+- Civil penalties ($1,000-$25,000 per violation)
+- License suspension or revocation
+
+2.3 CLAIM DENIAL REQUIREMENTS
+Written denial must include:
+- Specific policy provision supporting denial
+- Clear explanation in plain language
+- Reference to claim documentation reviewed
+- Information on appeal process
+- Contact information for insurance department
+
+CHAPTER 3: PRIVACY AND DATA SECURITY
+
+3.1 GRAMM-LEACH-BLILEY ACT (GLBA)
+Financial Privacy Rule:
+- Provide privacy notice at policy inception
+- Annual privacy notice required
+- Allow opt-out of information sharing
+- Limit information sharing to necessary purposes
+
+Safeguards Rule:
+- Implement comprehensive security program
+- Regular risk assessment
+- Employee training on data security
+- Vendor management and oversight
+- Incident response plan
+
+3.2 STATE DATA BREACH NOTIFICATION LAWS
+If personal information compromised:
+- Notify affected individuals without unreasonable delay
+- Notify state attorney general if >500 residents affected
+- Notify consumer reporting agencies if >1,000 affected
+- Provide free credit monitoring (some states)
+
+Personal information includes:
+- Social Security number
+- Driver's license number
+- Financial account numbers
+- Credit/debit card numbers
+- Health information
+
+3.3 CYBERSECURITY REQUIREMENTS
+New York DFS Cybersecurity Regulation (23 NYCRR 500):
+- Appoint Chief Information Security Officer
+- Implement cybersecurity program
+- Conduct penetration testing and vulnerability assessments
+- Audit trail for privileged accounts
+- Multi-factor authentication
+- Encryption of nonpublic information
+- Annual board reporting
+
+Other states adopting similar regulations.
+
+CHAPTER 4: FAIR CREDIT REPORTING ACT (FCRA)
+
+4.1 PERMISSIBLE USE OF CREDIT REPORTS
+May obtain for:
+- Underwriting insurance
+- Rating insurance (if allowed by state)
+- Claims settlement evaluation
+
+Must have consumer's written consent.
+
+4.2 ADVERSE ACTION REQUIREMENTS
+If take adverse action based on credit report:
+- Provide written notice to consumer
+- Include name and contact of credit reporting agency
+- State that agency didn't make decision
+- Include notice of right to dispute
+- Provide free copy of credit report
+
+Adverse actions include:
+- Denial of coverage
+- Higher rates
+- Reduced coverage limits
+- Cancellation or non-renewal
+
+4.3 CONSUMER RIGHTS
+Must allow consumers to:
+- Obtain free copy of credit report annually
+- Dispute inaccurate information
+- Place fraud alert or credit freeze
+- Opt out of prescreened offers
+
+CHAPTER 5: ANTI-MONEY LAUNDERING (AML)
+
+5.1 BANK SECRECY ACT (BSA) COMPLIANCE
+Insurance companies must:
+- Implement AML program
+- Designate AML compliance officer
+- Conduct risk-based customer due diligence
+- Monitor for suspicious activity
+- File Suspicious Activity Reports (SARs)
+- Maintain records for 5 years
+
+5.2 CUSTOMER IDENTIFICATION PROGRAM (CIP)
+Verify identity of customers:
+- Name, date of birth, address
+- Identification number (SSN or EIN)
+- Documentary verification (driver's license, passport)
+- Non-documentary verification if necessary
+
+Red flags:
+- Cash payments over $10,000
+- Unusual policy structures
+- Frequent policy changes
+- Transactions inconsistent with customer profile
+
+5.3 REPORTING REQUIREMENTS
+Currency Transaction Reports (CTRs):
+- File for cash transactions over $10,000
+- Submit to FinCEN within 15 days
+
+Suspicious Activity Reports (SARs):
+- File for suspicious transactions regardless of amount
+- Submit within 30 days
+- Do not notify customer of SAR filing
+
+CHAPTER 6: MARKET CONDUCT EXAMINATIONS
+
+6.1 EXAMINATION PROCESS
+State regulators conduct examinations:
+- Routine: Every 3-5 years
+- Target: When issues identified
+- Multi-state: Coordinated by NAIC
+
+Examination scope:
+- Underwriting practices
+- Rating and pricing
+- Claims handling
+- Producer compensation
+- Complaint handling
+- Advertising and marketing
+
+6.2 DOCUMENT RETENTION
+Maintain records for examination:
+- Policy files: 7 years after closure
+- Claim files: 7 years after closure
+- Financial records: 7 years
+- Board minutes: Permanently
+- Rating and underwriting manuals: Current + 7 years
+- Marketing materials: 7 years
+
+6.3 EXAMINATION FINDINGS
+Possible outcomes:
+- No violations found
+- Minor violations with corrective action plan
+- Significant violations with fines and consent order
+- License suspension or revocation (severe cases)
+
+CHAPTER 7: ADVERTISING AND MARKETING COMPLIANCE
+
+7.1 TRUTH IN ADVERTISING
+Advertisements must not:
+- Contain false or misleading statements
+- Omit material information
+- Use deceptive formatting or presentation
+- Compare to competitors unfairly
+- Use testimonials without proper disclosures
+
+Required disclosures:
+- Company name and contact information
+- Policy limitations and exclusions
+- Actual cost of coverage
+- Terms and conditions
+- "Not available in all states" if applicable
+
+7.2 TELEMARKETING RULES
+Comply with TCPA (Telephone Consumer Protection Act):
+- Obtain prior express written consent for calls/texts
+- Maintain do-not-call list
+- Honor do-not-call requests immediately
+- Provide company identification in calls
+- Call only during permitted hours (8 AM - 9 PM)
+
+CAN-SPAM Act for emails:
+- Clear opt-out mechanism
+- Honor opt-outs within 10 days
+- Accurate subject lines and sender information
+- Include physical postal address
+- Identify message as advertisement
+
+CHAPTER 8: DISCRIMINATORY PRACTICES
+
+8.1 REDLINING PROHIBITION
+Cannot:
+- Refuse coverage based on geographic location alone
+- Charge higher rates in minority neighborhoods without actuarial justification
+- Apply different underwriting standards by location
+- Use ZIP code as sole determining factor
+
+8.2 PROTECTED CLASSES
+Fair Housing Act protections:
+- Race and color
+- National origin
+- Religion
+- Sex
+- Familial status
+- Disability
+
+Additional state protections may include:
+- Sexual orientation
+- Gender identity
+- Marital status
+- Age (in insurance context, must be actuarially justified)
+
+8.3 DISPARATE IMPACT
+Even neutral policies can violate law if:
+- Disproportionately affect protected class
+- Cannot be justified by business necessity
+- Less discriminatory alternative exists
+
+Regular testing required to ensure compliance.
+
+CHAPTER 9: SOLVENCY REGULATION
+
+9.1 CAPITAL AND SURPLUS REQUIREMENTS
+Minimum requirements vary by state:
+- Property/casualty insurers: $2-5 million
+- Must maintain Risk-Based Capital (RBC) above action level
+- Quarterly financial statements required
+- Annual audited financial statements
+
+9.2 INVESTMENT RESTRICTIONS
+Limitations on:
+- Single issuer exposure
+- Asset classes (real estate, equities)
+- Non-investment grade securities
+- Foreign investments
+- Affiliated company investments
+
+Must maintain:
+- Adequate liquidity
+- Diversified portfolio
+- Quality assets
+- Appropriate asset-liability matching
+
+9.3 GUARANTY FUND ASSESSMENTS
+Member of state guaranty funds:
+- Pay assessments when insurers become insolvent
+- Typical assessment: 1-2% of premium
+- May offset against future taxes
+- Ensures payment to policyholders of failed insurers
+
+CHAPTER 10: AGENT AND BROKER OVERSIGHT
+
+10.1 PRODUCER CONDUCT
+Agents/brokers must:
+- Act in best interest of clients (fiduciary duty in some states)
+- Provide suitable coverage recommendations
+- Disclose all material information
+- Avoid conflicts of interest
+- Maintain client confidentiality
+
+10.2 COMMISSION TRANSPARENCY
+Required disclosures (varies by state):
+- Commission rates upon request
+- Contingent commission arrangements
+- Ownership interests in insurers
+- Revenue sharing agreements
+
+10.3 ERRORS AND OMISSIONS
+Producers liable for:
+- Failure to procure coverage as requested
+- Inadequate coverage recommendations
+- Failure to provide renewal notices
+- Negligent advice or misrepresentation
+
+Must maintain E&O insurance with minimum $1 million coverage.
+
+CHAPTER 11: POLICY CANCELLATION AND NON-RENEWAL
+
+11.1 PERMITTED REASONS
+May cancel or non-renew for:
+- Non-payment of premium
+- Material misrepresentation on application
+- Substantial increase in risk
+- Suspension or revocation of license
+- Physical changes to property creating increased hazard
+
+11.2 NOTICE REQUIREMENTS
+Advance notice required:
+- Cancellation: 10-30 days (varies by state and reason)
+- Non-renewal: 30-60 days before expiration
+- Mid-term cancellation: Full premium refund pro-rata
+- Non-renewal: No refund, policy expires
+
+11.3 PROHIBITED REASONS
+Cannot cancel or non-renew solely because:
+- Filing of claims (except pattern of fraud)
+- Age of insured (discriminatory)
+- Residence in particular area (redlining)
+- Exercise of legal rights
+- Protected class status
+
+CHAPTER 12: ENFORCEMENT AND PENALTIES
+
+12.1 REGULATORY ACTIONS
+Insurance departments may:
+- Issue cease and desist orders
+- Impose civil fines
+- Suspend or revoke licenses
+- Require corrective action plans
+- Place company under supervision
+- Order restitution to policyholders
+
+12.2 CRIMINAL PENALTIES
+Serious violations may result in:
+- Criminal prosecution
+- Imprisonment for executives
+- Corporate fines
+- Consent judgments
+
+Examples: fraud, embezzlement, willful violations of law
+
+12.3 PRIVATE CAUSES OF ACTION
+Consumers may sue for:
+- Breach of contract
+- Bad faith claim handling
+- Unfair or deceptive practices
+- Fraud or misrepresentation
+- Violation of consumer protection laws
+
+Potential damages: compensatory, consequential, punitive, attorney fees

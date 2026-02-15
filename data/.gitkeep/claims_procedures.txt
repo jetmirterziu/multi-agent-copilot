@@ -1,0 +1,156 @@
+CLAIMS HANDLING PROCEDURES
+Document Version: 2.1
+Last Updated: December 2023
+
+CHAPTER 1: FIRST NOTICE OF LOSS (FNOL)
+
+1.1 INITIAL CONTACT
+When a claim is reported, the claims representative must:
+- Record date and time of loss
+- Obtain policy number and verify coverage is active
+- Collect claimant contact information
+- Document basic facts of the incident
+- Assign claim number immediately
+
+1.2 URGENCY CLASSIFICATION
+Claims are classified into three urgency levels:
+- Priority 1 (Critical): Total loss, serious injury, legal deadlines - respond within 2 hours
+- Priority 2 (Urgent): Significant damage, moderate injury - respond within 24 hours
+- Priority 3 (Standard): Minor damage, no injury - respond within 48 hours
+
+CHAPTER 2: INVESTIGATION REQUIREMENTS
+
+2.1 DOCUMENTATION CHECKLIST
+All claims must include:
+- Incident report with detailed description
+- Police report (if applicable)
+- Photographs of damage from multiple angles
+- Witness statements (minimum 2 if available)
+- Medical records (for injury claims)
+- Repair estimates from licensed vendors
+
+2.2 FRAUD INDICATORS
+Red flags requiring enhanced investigation:
+- Inconsistent statements from claimant
+- Prior claims history showing pattern
+- Damage inconsistent with described incident
+- Late reporting (more than 7 days)
+- Reluctance to provide documentation
+- Claimant pressure for immediate payment
+
+2.3 INVESTIGATION TIMELINE
+- Initial assessment: Within 3 business days
+- Complete investigation: Within 15 business days
+- Final determination: Within 30 days of receiving all documentation
+
+CHAPTER 3: COVERAGE DETERMINATION
+
+3.1 POLICY REVIEW
+Adjusters must verify:
+- Policy was active on date of loss
+- Type of coverage applicable
+- Deductible amounts
+- Coverage limits and exclusions
+- Any endorsements or riders
+
+3.2 LIABILITY ASSESSMENT
+Determine percentage of fault using:
+- Police reports
+- Traffic laws
+- Witness testimony
+- Physical evidence
+- Expert opinions (if needed)
+
+Comparative negligence applies in most jurisdictions.
+
+CHAPTER 4: SETTLEMENT PROCESS
+
+4.1 DAMAGE VALUATION
+For property damage:
+- Obtain 2-3 repair estimates
+- Use industry-standard pricing guides
+- Consider actual cash value vs. replacement cost
+- Account for depreciation on older vehicles
+
+For total loss:
+- Use market value from recent comparable sales
+- Consider vehicle condition before loss
+- Factor in mileage and options
+- Subtract salvage value if applicable
+
+4.2 PAYMENT AUTHORIZATION
+Payment authority levels:
+- Adjuster: Up to $10,000
+- Senior Adjuster: Up to $50,000
+- Claims Manager: Up to $250,000
+- Director approval required: Over $250,000
+
+4.3 PAYMENT PROCESSING
+- Issue payment within 5 business days of settlement agreement
+- Direct deposit preferred
+- Check by mail if direct deposit unavailable
+- Provide itemized settlement statement
+
+CHAPTER 5: SUBROGATION
+
+5.1 SUBROGATION IDENTIFICATION
+Pursue subrogation when:
+- Third party is at fault
+- Recovery potential exceeds $2,500
+- Clear liability and collectability
+
+5.2 SUBROGATION PROCESS
+- Reserve subrogation rights in settlement letter
+- Send demand letter to at-fault party within 60 days
+- File lawsuit if necessary within statute of limitations
+- Recover claim payment plus expenses
+
+CHAPTER 6: DISPUTE RESOLUTION
+
+6.1 CLAIM DENIAL
+Denials must include:
+- Specific policy provisions supporting denial
+- Clear explanation in plain language
+- Information on appeal process
+- Deadline for appeal submission
+
+6.2 APPEALS PROCESS
+Claimants may appeal within 30 days by:
+- Submitting written appeal with new evidence
+- Requesting independent appraisal
+- Participating in mediation
+
+6.3 ARBITRATION
+If settlement cannot be reached:
+- Binding arbitration available
+- Each party selects one arbitrator
+- Third arbitrator selected jointly
+- Decision is final and legally binding
+
+CHAPTER 7: QUALITY ASSURANCE
+
+7.1 FILE REVIEW
+Random file audits conducted quarterly to ensure:
+- Complete documentation
+- Timely processing
+- Accurate valuations
+- Proper payment authorization
+- Compliance with regulations
+
+7.2 CUSTOMER SATISFACTION
+All claimants receive survey after claim closure. Target satisfaction score: 85% or higher.
+
+CHAPTER 8: REGULATORY COMPLIANCE
+
+8.1 STATE REGULATIONS
+Claims handling must comply with:
+- Unfair Claims Settlement Practices Act
+- State-specific prompt payment laws
+- Privacy and data security requirements
+- Anti-fraud reporting obligations
+
+8.2 REPORTING REQUIREMENTS
+Report to state insurance department:
+- All claim denials (within 10 days)
+- Suspected fraud (immediately)
+- Complaints and appeals (monthly summary)

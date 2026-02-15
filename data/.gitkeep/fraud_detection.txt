@@ -1,0 +1,298 @@
+FRAUD DETECTION AND PREVENTION GUIDELINES
+Insurance Special Investigations Unit (SIU)
+Version 3.2 - Updated November 2023
+
+CHAPTER 1: FRAUD OVERVIEW
+
+1.1 TYPES OF INSURANCE FRAUD
+Hard Fraud: Deliberately faking or causing an incident to collect insurance money
+- Staged accidents
+- Arson for profit
+- Fake theft claims
+- Phantom injuries
+
+Soft Fraud: Exaggerating legitimate claims
+- Inflating damage amounts
+- Adding unrelated damage to claim
+- Falsifying dates of loss
+- Overstating value of stolen items
+
+1.2 FRAUD STATISTICS
+- Estimated 10% of all property-casualty claims involve fraud
+- Annual cost to industry: $40 billion
+- Average fraudulent claim amount: $12,500
+- Detection rate: Only 25% of fraud is identified
+
+CHAPTER 2: RED FLAGS AND INDICATORS
+
+2.1 AUTO INSURANCE FRAUD INDICATORS
+Accident-related:
+- Police report filed several days after accident
+- Claimant has history of similar accidents
+- Damage inconsistent with accident description
+- No independent witnesses
+- Accident occurred in isolated location
+- All occupants claim soft tissue injuries
+- Passengers unknown to driver or recently acquainted
+
+Vehicle-related:
+- Recent policy purchase or coverage increase
+- Vehicle has existing damage
+- Title issues or salvage history
+- Odometer reading suspicious
+- Recent change of address to high-crime area
+
+2.2 HOMEOWNERS FRAUD INDICATORS
+Property damage:
+- Claim filed immediately after policy inception
+- Prior similar claims with other insurers
+- Loss occurred during financial hardship
+- Multiple claims for same type of damage
+- Damage appears intentional
+- No emergency repairs attempted
+
+Theft claims:
+- No forced entry evidence
+- High-value items with no receipts
+- Claim includes many recently purchased items
+- Reluctance to provide receipts or proof of ownership
+- Items claimed exceed policy limits
+- No police report filed
+
+Fire/arson indicators:
+- Fire origin consistent with accelerant use
+- Multiple fire origins detected
+- Property heavily insured shortly before fire
+- Valuable items removed before fire
+- Fire occurred when occupants conveniently absent
+- Recent business or financial troubles
+
+2.3 INJURY FRAUD INDICATORS
+- Treatment primarily with chiropractor or attorney-affiliated provider
+- Injury type difficult to verify medically (soft tissue)
+- Treatment frequency excessive for injury type
+- Late onset of treatment (weeks after incident)
+- Pre-existing condition undisclosed
+- Medical bills significantly exceed typical costs
+- Attorney involvement before medical treatment
+
+CHAPTER 3: INVESTIGATION PROTOCOLS
+
+3.1 PRELIMINARY ASSESSMENT
+When red flags present, adjuster must:
+- Document all suspicious indicators
+- Search internal database for prior claims
+- Review social media profiles (public information only)
+- Check for prior fraud reports
+- Escalate to SIU if 3 or more red flags present
+
+3.2 SIU REFERRAL CRITERIA
+Mandatory referral if:
+- Suspected staged accident
+- Arson indicators present
+- Claimed theft exceeds $25,000
+- Conflicting statements from insured
+- Provider billing inconsistencies
+- Medical treatment appears unnecessary
+
+3.3 INVESTIGATION TECHNIQUES
+Surveillance:
+- Video surveillance of claimant (public areas only)
+- Activity checks (social media, employment records)
+- Witness interviews
+- Scene investigation
+
+Database searches:
+- Index Bureau (ISO) claims history
+- National Insurance Crime Bureau (NICB) database
+- Court records search
+- Property records
+- Business records
+
+Expert examination:
+- Independent medical examination
+- Fire origin and cause investigation
+- Vehicle damage analysis
+- Forensic document examination
+
+3.4 INVESTIGATION TIMELINE
+- Initial review: 48 hours of referral
+- Full investigation: Complete within 30 days
+- Final report: Within 45 days
+- Law enforcement referral: Within 60 days if evidence warrants
+
+CHAPTER 4: EVIDENCE COLLECTION
+
+4.1 ADMISSIBLE EVIDENCE
+Document thoroughly:
+- Date, time, location of all activities
+- Names and contact info of witnesses
+- Photographs and videos with metadata
+- Signed statements
+- Chain of custody for physical evidence
+
+4.2 INTERVIEW BEST PRACTICES
+- Conduct early before stories become rehearsed
+- Record with consent (follow state laws)
+- Ask open-ended questions
+- Note inconsistencies
+- Obtain signed statement
+
+Questions to ask:
+- Exact sequence of events
+- Who was present
+- Time of incident
+- Weather conditions
+- Previous damage or issues
+- Financial situation
+- Recent life changes
+
+4.3 DOCUMENTATION REQUIREMENTS
+All investigations must include:
+- Detailed investigator notes
+- Timeline of events
+- Evidence log
+- Witness statements
+- Photographs and videos
+- Expert reports
+- Database search results
+
+CHAPTER 5: CLAIM HANDLING FOR SUSPECTED FRAUD
+
+5.1 INVESTIGATION DURING CLAIM PROCESSING
+- Continue normal claim investigation
+- Do not accuse claimant of fraud
+- Request additional documentation
+- Delay payment pending investigation
+- Maintain detailed file notes
+
+5.2 RESERVATION OF RIGHTS
+Send reservation of rights letter if:
+- Policy coverage question exists
+- Fraud suspected but not confirmed
+- Cooperation clause violation
+
+Letter must specify:
+- Specific policy provisions in question
+- Additional information needed
+- Investigation timeline
+- Rights reserved by insurer
+
+5.3 DENIAL PROCEDURES
+If fraud confirmed:
+- Deny claim in writing
+- State specific reasons
+- Reference policy fraud provisions
+- Return all premiums if material misrepresentation
+- Document all evidence thoroughly
+
+CHAPTER 6: LEGAL ACTIONS
+
+6.1 REPORTING TO AUTHORITIES
+Report to law enforcement when:
+- Evidence of criminal activity
+- Organized fraud ring suspected
+- Fraud amount exceeds $10,000
+- Violence involved
+- Licensed professional involved (attorney, doctor)
+
+6.2 REPORTING TO INSURANCE FRAUD BUREAU
+Mandatory reporting to state fraud bureau:
+- All suspected fraud cases
+- Report within 30 days of suspicion
+- Include detailed evidence summary
+
+6.3 CIVIL ACTIONS
+Pursue civil recovery if:
+- Fraud confirmed through investigation
+- Criminal conviction obtained
+- Recovery amount exceeds legal costs
+- Deterrent value to prevent future fraud
+
+CHAPTER 7: FRAUD PREVENTION
+
+7.1 UNDERWRITING CONTROLS
+- Verify prior insurance history
+- Check claims databases
+- Require property inspections
+- Review financial stability
+- Investigate suspicious application patterns
+
+7.2 CLAIMS CONTROLS
+- Random quality audits
+- Special investigations unit review
+- Data analytics for pattern detection
+- Training for claims adjusters
+- Fraud awareness programs
+
+7.3 TECHNOLOGY SOLUTIONS
+Implement:
+- Predictive analytics models
+- Social network analysis
+- Text mining of claim notes
+- Image analysis for damage consistency
+- Automated red flag detection
+
+CHAPTER 8: PROVIDER FRAUD
+
+8.1 MEDICAL PROVIDER FRAUD INDICATORS
+- Billing for services not rendered
+- Upcoding (billing for more expensive service)
+- Unbundling (separate billing for procedures normally bundled)
+- Excessive or unnecessary treatment
+- Kickbacks for patient referrals
+- Same diagnosis code for all patients
+
+8.2 AUTO REPAIR FRAUD INDICATORS
+- Inflated repair estimates
+- Charging for new parts but using aftermarket/used
+- Billing for repairs not performed
+- Colluding with claimant on betterment
+- Recommending unnecessary repairs
+
+8.3 PROVIDER MONITORING
+- Review billing patterns
+- Compare to industry standards
+- Site visits to facilities
+- Patient outcome tracking
+- Audit of medical records vs. billing
+
+8.4 NETWORK MANAGEMENT
+Action for fraudulent providers:
+- Remove from preferred provider network
+- Report to licensing board
+- Refer to law enforcement
+- Pursue civil recovery
+- Share information with other insurers
+
+CHAPTER 9: ORGANIZED FRAUD RINGS
+
+9.1 CHARACTERISTICS
+- Multiple related claims
+- Same participants across claims
+- Similar incident patterns
+- Common providers or legal representation
+- Geographically clustered
+
+9.2 INVESTIGATION APPROACH
+- Map relationships between participants
+- Cross-reference all claims
+- Coordinate with other insurers
+- Involve law enforcement early
+- Use RICO statutes if applicable
+
+CHAPTER 10: TRAINING AND AWARENESS
+
+10.1 EMPLOYEE TRAINING
+All claims staff must complete:
+- Annual fraud awareness training
+- Red flag identification course
+- Investigation documentation procedures
+- Legal and ethical considerations
+
+10.2 INDUSTRY COLLABORATION
+Participate in:
+- National Insurance Crime Bureau programs
+- State fraud bureau coalitions
+- Industry working groups
+- Information sharing networks
